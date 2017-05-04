@@ -1,7 +1,7 @@
 
 
 Pod::Spec.new do |s|
-  s.name         = 'TZImagePickerController'
+  s.name         = 'ZJCImagePickerController'
   s.version      = '0.0.1'
   s.summary      = 'A TZImagePickerController for iOS.'
 
