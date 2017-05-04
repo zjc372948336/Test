@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name         = 'ZJCImagePickerController'
-  s.version      = '0.0.1'
+  s.version      = '0.0.2'
   s.summary      = 'A TZImagePickerController for iOS.'
 
   s.homepage     = "http://blog.csdn.net/codingfire/article/details/52470802"
@@ -15,8 +15,8 @@ Pod::Spec.new do |s|
   s.author       = { "zjc372948336" => "372948336@qq.com" }
  
 
-  s.source       = { :git => "https://github.com/zjc372948336/Test.git", :tag => "0.0.1" }
-
+  s.source       = { :git => "https://github.com/zjc372948336/Test.git", :tag => "0.0.2" }
+  s.resource     = "TZImagePickerController/TZImagePickerController.bundle"
 
   s.ios.deployment_target = '7.0'
 
